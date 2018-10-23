@@ -1,0 +1,8 @@
+plac
+bs4
+gfm
+progressbar2
+pyinstaller
+html5lib
+pyatom
+pypng
